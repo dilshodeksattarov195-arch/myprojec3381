@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterepdate",
+        "uuid": 13513857,
+        "checksum": "ldwzi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
